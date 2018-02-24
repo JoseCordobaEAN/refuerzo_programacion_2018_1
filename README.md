@@ -16,6 +16,9 @@ Ejercicios del Refuerzo de Programación de la Universidad EAN 2018-1
 11. Programación Orientada a Objetos
 12. Programación Orientada a Objetos
 
+## Codigo de conducta
+Por favor revisa el codigo de conducta en https://github.com/JoseCordobaEAN/refuerzo_programacion_2018_1/blob/master/CODE_OF_CONDUCT.md
+
 
 >Por - José Córdoba
 
