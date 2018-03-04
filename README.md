@@ -1,9 +1,9 @@
 # Refuerzo de programación 2018-1 Universidad EAN
 Ejercicios del Refuerzo de Programación de la Universidad EAN 2018-1
 
-<div align="center">
-![Programación](computer.jpg)
-</div>
+<p align="center">
+  <img src="https://github.com/JoseCordobaEAN/refuerzo_programacion_2018_1/blob/master/computer.jpg?raw=true" alt="Coding home"/>
+</p>
 
 ## Nuestras sesiones
 
