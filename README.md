@@ -1,7 +1,9 @@
 # Refuerzo de programación 2018-1 Universidad EAN
 Ejercicios del Refuerzo de Programación de la Universidad EAN 2018-1
 
+<div align="center">
 ![Programación](computer.jpg)
+</div>
 
 ## Nuestras sesiones
 
