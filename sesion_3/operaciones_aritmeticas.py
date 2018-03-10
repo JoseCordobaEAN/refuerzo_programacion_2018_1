@@ -23,4 +23,4 @@ operaciones.append(numeros[0] // numeros[1] // numeros[2]
 operaciones.append(numeros[0] % numeros[1] % numeros[2]
                    % numeros[3] % numeros[4])
 
-print(operaciones)
+print(operaciones,numeros)
