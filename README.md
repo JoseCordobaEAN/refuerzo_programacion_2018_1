@@ -5,7 +5,7 @@ Ejercicios del Refuerzo de Programación de la Universidad EAN 2018-1
 
 1. Logica computacional (Jerarquía de operadores, Tipos de Datos, Tablas de Verdad)
 2. Estructuras de control (Selectivas)
-3. Estructuras de control (Selectivas)
+3. Listas
 4. Estructuras de control (Repetitivas)
 5. Estructuras de control (Repetitivas)
 6. Colecciones
