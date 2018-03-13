@@ -9,4 +9,4 @@ numero_2 = input("¿Cual es su segundo número? ")
 numero_2 = float(numero_2)
 
 #imprimimos la respuesta
-print("¿El primero es mayor?",numero_1>numero_2)
+print("¿El primero es mayor?", numero_1 > numero_2)
