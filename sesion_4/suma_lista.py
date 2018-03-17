@@ -1,30 +1,30 @@
 # leemos los elementos y los guardamos en la lista
 numeros = []
 
-# Leemos el primer numero
-numero = input("Ingrese un numero\n")
-numeros.append(numero)
+# Leemos el primer n
+n = input("Ingrese un n\n")
+numeros.append(n)
 
-# Leemos el segundo numero
-numero = input("Ingrese un numero\n")
-numeros.append(numero)
+# Leemos el segundo n
+n = input("Ingrese un n\n")
+numeros.append(n)
 
-# Leemos el tercer numero
-numero = input("Ingrese un numero\n")
-numeros.append(numero)
+# Leemos el tercer n
+n = input("Ingrese un n\n")
+numeros.append(n)
 
-# Leemos el cuarto numero
-numero = input("Ingrese un numero\n")
-numeros.append(numero)
+# Leemos el cuarto n
+n = input("Ingrese un n\n")
+numeros.append(n)
 
-# Leemos el quinto numero
-numero = input("Ingrese un numero\n")
-numeros.append(numero)
+# Leemos el quinto n
+n = input("Ingrese un n\n")
+numeros.append(n)
 
 # Acumulamos la suma
 resultado = 0
-for numero in numeros:
-    resultado += float(numero)
+for n in numeros:
+    resultado += float(n)
 
 # Imprimimos el resultado
 print("La suma de sus numeros es",resultado)
