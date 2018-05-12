@@ -1,3 +1,4 @@
+# importamos la clase de pruebas
 from sesion_11.Encapsulada import Encapsulada
 
 # Creamos una nueva instancia de nuestra clase encapsulada
